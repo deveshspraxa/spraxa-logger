@@ -1,5 +1,5 @@
 # Spraxa Logger
-Pino based logger warpper
+Pino based logger wrapper
 
 ## Install
 
